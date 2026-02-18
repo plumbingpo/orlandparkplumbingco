@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://orlandparkplumbingco.com/sitemap.xml
